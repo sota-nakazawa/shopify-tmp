@@ -1,0 +1,20 @@
+.p-faq {
+    &__section {
+        margin-bottom: 64px;
+    }
+    &__title {
+        padding: 8px 16px;
+        background-color: #FFFFFF;
+        margin-bottom: 32px;
+    }
+    &__item {
+        margin-bottom: 32px;
+    }
+    &__question {
+        font-weight: bold;
+        line-height: 2;
+    }
+    &__answer {
+        line-height: 2;
+    }
+}

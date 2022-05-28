@@ -1,0 +1,23 @@
+.p-faq__section {
+  margin-bottom: 64px;
+}
+
+.p-faq__title {
+  padding: 8px 16px;
+  background-color: #FFFFFF;
+  margin-bottom: 32px;
+}
+
+.p-faq__item {
+  margin-bottom: 32px;
+}
+
+.p-faq__question {
+  font-weight: bold;
+  line-height: 2;
+}
+
+.p-faq__answer {
+  line-height: 2;
+}
+/*# sourceMappingURL=style.css.map */

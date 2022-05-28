@@ -1,0 +1,15 @@
+.p-policy {
+    &__heading {
+        margin-bottom: 48px;
+    }
+    &__item {
+        margin-bottom: 32px;
+    }
+    &__title {
+        display: block;
+        margin-top: 8px;
+    }
+    &__caption {
+        padding-left: 1rem;
+    }
+}
