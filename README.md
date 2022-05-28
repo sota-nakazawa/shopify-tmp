@@ -1,1 +1,1 @@
-# furusato-rakuten
+# Shopifyの下層ページをHTMlとインラインCSSで記述したテンプレートです。
